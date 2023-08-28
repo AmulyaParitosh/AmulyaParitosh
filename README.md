@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amulya Paritosh</h1>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Google Summer of Code<br>👯 I’m looking to collaborate on projects using PyQt/PySide<br>🤝 I’m looking for help with WebDev<br>🌱 I’m currently learning Flutter<br>💬 Ask me about PyQt/PySide
