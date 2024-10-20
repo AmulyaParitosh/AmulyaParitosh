@@ -3,6 +3,28 @@
 ## 🚀 About Me
 I'm a passionate Software Engineer and B.E. Computer Science student at Chandigarh University, set to graduate in 2025. When I'm not coding, you can find me tinkering with IoT devices, diving into data science projects, or contributing to open-source initiatives. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
+## 🌟 Projects
+Here are some of the projects I've worked on. You can find more on my [GitHub repositories](https://github.com/AmulyaParitosh?tab=repositories).
+
+- **[Component Management System](https://github.com/AmulyaParitosh/Component-Management-System)** - A secure distributed storage and management system for 3D-models and their metadata. Built using Flask, SQLite, and Elasticsearch.
+  
+- **[Licenser](https://github.com/AmulyaParitosh/Licenser)** - A cross-platform command-line utility for generating LICENSE files and adding license headers to your project files.
+
+- **[DinfoStash](https://github.com/AmulyaParitosh/DinfoStash)** - An API solution for managing developer portfolios and generating resumes on the fly using FastAPI and Firebase.
+
+- **[GoCrypt](https://github.com/AmulyaParitosh/GoCrypt)** - A command-line tool for encrypting and decrypting files using Go with SHA-1 encryption.
+
+- **[Components Library Addon](https://github.com/AmulyaParitosh/Component_Library_Plugin)** - A plugin for FreeCAD to manage local and community-driven libraries of open-source components.
+
+## 🏆 Achievements
+- **Google Summer of Code 2023** - Successfully completed GSoC with FreeCAD, contributing to open-source projects and improving the Component Management System.
+  
+- **FOSS-ASIA Summit 2024** - Exhibited at the FreeCAD booth during FOSS-ASIA Summit in Hanoi, Vietnam.
+  
+- **Hackathon Winner (FireFly)** - 3rd place at NIT Warangal's FireFly hackathon.
+
+- **Patent** - Developed and filed a patent for a Drain Clogging Prevention System.
+
 ## 🛠️ Tech Stack & Skills
 I'm like a Swiss Army knife of coding - equipped with a variety of tools for different scenarios!
 
